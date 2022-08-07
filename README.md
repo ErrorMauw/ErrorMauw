@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ErrorMauw
+- 👀 I’m interested in to take my career
+- 🌱 I’m currently learning SvelteKit, Electron and BackEnd
+- 💞️ I'm looking to collaborate with new projects that arise
+- 📫 How to reach me Discord: Mauw#5312
